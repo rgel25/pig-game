@@ -46,5 +46,7 @@ You may visit the deployed web app through the link below.
 ## Footer
 
 Thank you for taking the time in checking out this repository.
-**Argel Miralles | Full Stack Web Developer** <br>
+
+**Argel Miralles | Full Stack Web Developer**
+
 **SIC PARVIS MAGNA**☝
